@@ -1,0 +1,510 @@
+{
+  "lessons": [
+    {
+      "id": "LL-001",
+      "no": "1",
+      "bidang": "Manajemen Proyek",
+      "objek": "Project Information",
+      "kondisi": "Kontraktor SCADA - EMS ACC JAMALI KSO Siemens - Twink dengan nilai kontrak Original 467M; (AMD3) 474M; Durasi 780 hari Kalender; Efektif 25 Januari 2024;\n\nKontraktor Gedung MCC (Gandul) dan DRC (Ungaran) Adhi Karya dengan nilai kontrak Original 279M; (AMD4) 300M;Durasi 480 hari Kalender; Efektif 25 Januari 2024;\n\nKonsultan Enjiniring PLNE x DNV dengan nilai kontrak (AMD3) 25M\n\nPengadaan terpusat",
+      "lesson": "Kontrak SCADA dan Gedung MCC&DRC Kalimantan terpisah dan dilaksanakan oleh 2 UIP yang berbeda. Kontrak Gedung dalam tahapan pengadaan oleh pusat dengan target terkontrak TWI-TWII 2027. Sedangan untuk status Kontrak SCADA belum diketahui. Untuk Kontrak SCADA sebaiknya berjalan paralel untuk memperjelas terminal point serta meminimalisir clash dengan Kontrak Gedung.\n\nAI DRC Kalimantan : \nPersetujuan Lingkungan - 500jt\nPerizinan - 500jt\nSupervisi Enjiniring - 11M\nSCADA : 175M\nGedung : 193M\n\nPengadaan terpusat"
+    },
+    {
+      "id": "LL-002",
+      "no": "2",
+      "bidang": "Manajemen Proyek",
+      "objek": "Project Information",
+      "kondisi": "Disaster Recovery Center (DRC) Ungaran merupakan fasilitas yang berfungsi sebagai mirroring dari Main Control Center (MCC), yaitu sebagai pusat pemulihan dan pencadangan sistem apabila terjadi gangguan pada MCC. Oleh karena itu, secara umum bangunan, tata ruang, serta fasilitas pendukung DRC memiliki karakteristik dan kebutuhan yang relatif serupa dengan MCC.",
+      "lesson": "Type yang sama dengan DRC dan MCC Regional lainnya (Sumatera, Kalimantan, Sulawesi)"
+    },
+    {
+      "id": "LL-003",
+      "no": "3",
+      "bidang": "Manajemen Proyek",
+      "objek": "Tim Strategis",
+      "kondisi": "Terdapat SK Tim Imbangan dengan anggota DIV RSL, DIV STI, DIV MKJ, PLN UIP, PLN UPP, dan PLN UIP2B Jamali sebagai wadah koordinasi, meminimalisir mis komunikasi dan mempercepat pengambilan keputusan",
+      "lesson": "Perlu dibuat tim imbangan serupa antara PLN UIP, dan PLN UIP3B serta divisi terkait dan konsultan. Selain itu direkomendasikan untuk membuat wadah komunikasi dengan tim MCC&DRC Sumatera Kalimantan Sulawesi untuk menstandartkan aspek engineering dan kontraktual, hal tersebut berperan meminimalkan risiko dispute dengan Penyedia Barang/Jasa"
+    },
+    {
+      "id": "LL-004",
+      "no": "4",
+      "bidang": "Manajemen Proyek",
+      "objek": "Kontraktual",
+      "kondisi": "Terdapat beberapa perbedaan penulisan antara TPG dan BOQ/ Drawing dan BoQ yang kemudian menjadi dispute; ex; TPG watercooler, BoQ aircooler",
+      "lesson": "Melakukan inventarisasi TPG, BoQ, dan Drawing serta mensepakati sebagai MC0 sebelum pekerjaan fisik dilaksanakan"
+    },
+    {
+      "id": "LL-005",
+      "no": "5",
+      "bidang": "Manajemen Proyek",
+      "objek": "Enjiniring",
+      "kondisi": "Pelaksanaan Approval Drawing dan TPG oleh Kontraktor, review Konsultan, Approve UIP dan UIP2B\n\nNotes : Untuk major/ critical item by UIP dan UIP2B (sesuai kontrak), item minor/ non critical by UPP",
+      "lesson": "Pelaksanaan approval sebaiknya melibatkan End User (Approval by SRM)"
+    },
+    {
+      "id": "LL-006",
+      "no": "6",
+      "bidang": "Manajemen Proyek",
+      "objek": "Enjiniring",
+      "kondisi": "Baskom Enjiniring\nKontraktor submit to PLNE, kemudian dilanjutkan ke UIP dan UIP2B melalui surat resmi dengan durasi review max 14 hari kalender.",
+      "lesson": "Baskom Enjiniring sebaiknya melibatkan End User"
+    },
+    {
+      "id": "LL-007",
+      "no": "7",
+      "bidang": "Manajemen Proyek",
+      "objek": "Enjiniring",
+      "kondisi": "Durasi review enjiniring by Konsultan pada tahapan tertenu belum memenuhi SLA yang ditetapkan",
+      "lesson": "Sebaiknya terdapat PIC dedicated untuk DRC Kalimantan"
+    },
+    {
+      "id": "LL-008",
+      "no": "8",
+      "bidang": "Manajemen Proyek",
+      "objek": "Enjiniring",
+      "kondisi": "Jenis Kontrak PC sehingga tahap engineering hanya approval ulang drawing yang terdapat dalam kontrak. Hal tersebut berdampak terhadap penambahan jumlah drawing dari 950 + 1475 = 2425 (+155%) sebagai akibat dari pendetailan drawing dan adanya item pekerjaan baru (VO)",
+      "lesson": "Jenis Kontrak EPC, Proses Enjiniring by Penyedia Barang/Jasa"
+    },
+    {
+      "id": "LL-009",
+      "no": "9",
+      "bidang": "Manajemen Proyek",
+      "objek": "Enjiniring",
+      "kondisi": "Proses engineering ditargetkan selesai dalam waktu 3 bulan, namun bertambah sesuai dengan item VO",
+      "lesson": "Sebaiknya disepakati schedule enjiniring pada tahap awal kontrak"
+    },
+    {
+      "id": "LL-010",
+      "no": "10",
+      "bidang": "Manajemen Proyek",
+      "objek": "Enjiniring",
+      "kondisi": "BIM belum terimplementasi maksimal pada proyek ini karena jenis kontrak PC",
+      "lesson": "BIM 5D sebagai solusi enjiniring dan kolaborasi, dan sebaiknya berkesinambungan dengan BIM pada tahap ED. Sehingga dapat meminimalkan clash antara kontrak Gedung dan SCADA"
+    },
+    {
+      "id": "LL-011",
+      "no": "11",
+      "bidang": "Manajemen Proyek",
+      "objek": "Enjiniring",
+      "kondisi": "Untuk Enjiniring Mechanichal Elektrical masuk scope tim EM, catatan khusus untuk perpipaan termasuk item rumit dan critical",
+      "lesson": "Agar tersedia tim khusus perpipaan"
+    },
+    {
+      "id": "LL-012",
+      "no": "12",
+      "bidang": "Manajemen Proyek",
+      "objek": "Stakeholder",
+      "kondisi": "DIV MKJ, RSL, STI, PLN UIP JBB, UPP JBB 2, UIP2B, UPMK I",
+      "lesson": "DIV MKS, RSL, STI, PLN UIP KLB, UIP KLT, UIP3BKAL, UMPK II"
+    },
+    {
+      "id": "LL-013",
+      "no": "13",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Fasad Gedung",
+      "kondisi": "Fasad DRC menggunakan material GRC bermotif sesuai gambar arsitektur. Beban material GRC sangat besar sehingga dibutuhkan tambahan struktur penyangga (Struktur Komposit) yang belum terdapat di dalam kontrak original",
+      "lesson": "Pada fasad gedung sebaiknya tidak menggunakan material GRC yang berat. Alternatif fasad gedung material yang lebih ringan (ACP/HPL)"
+    },
+    {
+      "id": "LL-014",
+      "no": "14",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Layout",
+      "kondisi": "Luasan Gedung diperbesar untuk skala kebutuhan ruangan 15 tahun. Dan sesuai dengan permintaan End User. Sehingga dibutuhkan tambahan volume untuk item lainnya yang terkait. End User lebih condong mengacu kepada desain visioning pada tahap Pra Kontruksi.",
+      "lesson": "Sebaiknya desain sudah standar sesuai kebutuhan operasional, selaras dengan BoQ dan telah disepakati sebelum pelaksanaan konstruksi"
+    },
+    {
+      "id": "LL-015",
+      "no": "15",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Layout",
+      "kondisi": "Pada Layout IB terdapat penambahan partisi sesuai permintaan user untuk fungsional gedung",
+      "lesson": "Sebaiknya desain sudah standar sesuai kebutuhan operasional, selaras dengan BoQ dan telah disepakati sebelum pelaksanaan konstruksi."
+    },
+    {
+      "id": "LL-016",
+      "no": "16",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Layout",
+      "kondisi": "Dimensi Power House dilakukan penyesuaian (Diperbesar) menyesuaikan dimensi Trafo dan Genset",
+      "lesson": "Sebaiknya desain sudah standar sesuai kebutuhan operasional, selaras dengan BoQ dan telah disepakati sebelum pelaksanaan konstruksi. Paralel menyiapkan data dimensi material dan peralatan."
+    },
+    {
+      "id": "LL-017",
+      "no": "17",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Design Basis Struktur",
+      "kondisi": "Terdapat Structure Calculation Report pada tahap Pra Konstruksi yang dibuat oleh Konsultan yang kemujian menjadi dasar desain pada tahap Kontruksi",
+      "lesson": "Jenis Kontrak EPC, Proses Enjiniring (inc Calculation Report) by Penyedia Barang/Jasa"
+    },
+    {
+      "id": "LL-018",
+      "no": "18",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Desain Gempa",
+      "kondisi": "Beban gempa sesuai SNI",
+      "lesson": "Beban gempa sesuai SNI"
+    },
+    {
+      "id": "LL-019",
+      "no": "19",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Design Basis Struktur",
+      "kondisi": "Untuk pembebanan (LL, DL, SDL) refer to standar TIA ANSI, untuk kombinasi pembebanan refer to SNI",
+      "lesson": "Untuk pembebanan (LL, DL, SDL) refer to standar TIA ANSI, untuk kombinasi pembebanan refer to SNI"
+    },
+    {
+      "id": "LL-020",
+      "no": "20",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Design Basis Struktur",
+      "kondisi": "Untuk seluruh spesifikasi material yang digunakan pada data center sesuai peraturan UNOPS dimana harus memenuhi TIA ANSI TIER 4. Pada tahap awal terdapat dispute terkait pemenuhan standar tersebut yang tidak sesuai dengan BoQ. Sehingga banyak kerja tambah.",
+      "lesson": "Memastikan seluruh spesifikasi material, TPG, BoQ, syarat teknis telah ditentukan harus memenuhi TIA ANSI TIER 4"
+    },
+    {
+      "id": "LL-021",
+      "no": "21",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Roof",
+      "kondisi": "Rooftop menggunakan dak beton, finishing screed ",
+      "lesson": "Rooftop dapat menggunakan dak beton dengan finishing waterproof standar TIA ANSI"
+    },
+    {
+      "id": "LL-022",
+      "no": "22",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Roof",
+      "kondisi": "Belum terdapat gondola untuk pemeliharaan fasad gedung",
+      "lesson": "Sebaiknya dipertimbangkan terdapat pengadaan dan pemasangan gondola untuk menunjang pada fasa pemeliharaan"
+    },
+    {
+      "id": "LL-023",
+      "no": "23",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Roof",
+      "kondisi": "Plafond menggunakan lapisan 3 lapis sesuai dengan standar TIA ANSI",
+      "lesson": "Memastikan seluruh spesifikasi material, TPG, BoQ, syarat teknis telah ditentukan harus memenuhi TIA ANSI TIER 4"
+    },
+    {
+      "id": "LL-024",
+      "no": "24",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Floor Loading Ruang Kritis",
+      "kondisi": "Salah satu material yang memiliki beban besar adalah Chiller yang terpasang di rooftop",
+      "lesson": "Dibuat list material/peralatan refer to DRC Jamali sebagai referensi awal pada tahap pra konstruksi"
+    },
+    {
+      "id": "LL-025",
+      "no": "25",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Floor Loading Ruang Kritis",
+      "kondisi": "Untuk Ekspansi equipment, struktur penahan panel menggunakan baja siku dan lantai didesain raised floor. (Sesuai desain kontrak original)",
+      "lesson": "Dapat dipertimbangkan menggunakan sistem yang sama dengan DRC Jamali"
+    },
+    {
+      "id": "LL-026",
+      "no": "26",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Floor Loading Ruang Kritis",
+      "kondisi": "Pada raised floor terdapat perbedaan antara drawing dan BoQ. (terdapat VO screed sesuai desain kontrak original)",
+      "lesson": "Sebaiknya desain sudah standar sesuai kebutuhan operasional, selaras dengan BoQ dan telah disepakati sebelum pelaksanaan konstruksi"
+    },
+    {
+      "id": "LL-027",
+      "no": "27",
+      "bidang": "",
+      "objek": "Floor Loading Ruang Kritis",
+      "kondisi": "Pada ruang server menggunakan keramik khusus untuk mwmbantu sistem pendinginan",
+      "lesson": "Sebaiknya desain sudah standar sesuai kebutuhan operasional, selaras dengan BoQ dan telah disepakati sebelum pelaksanaan konstruksi"
+    },
+    {
+      "id": "LL-028",
+      "no": "28",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Loading / Unloading & Equipment Route",
+      "kondisi": "Peralatan UPS yang on site memiliki dimenasi yang lebih besar daripada akses pintu sehingga diperlukan pembobokan. Akses untuk peralatan belum dipertimbangkan pada desain awal",
+      "lesson": "Memastikan dimensi material/peralatan. Khusus UPS direkomendasikan menggunakan UPS sistem partisi"
+    },
+    {
+      "id": "LL-029",
+      "no": "29",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Maintainability & Access",
+      "kondisi": "Akses ke rooftop menggunakan tangga, terdapat floor drain untuk drainase (dihubungkan ke GWT).",
+      "lesson": "Menyesuaikan kondisi lapangan. Sebaiknya sudah dipertimbangkan pada tahap ED. Dapat dipertimbangkan menggunakan sistem yang sama dengan DRC Jamali"
+    },
+    {
+      "id": "LL-030",
+      "no": "30",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Risiko Banjir / HFL",
+      "kondisi": "Tidak menggunakan data banjir (HFL) karena tidak berada pada lokasi risiko bajir",
+      "lesson": "Sebaiknya menggunakan data banjir (HFL) pada tahap penentuan GFL, dan ataupun ketentuan teknis elevasi jalan +50cm"
+    },
+    {
+      "id": "LL-031",
+      "no": "31",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Sistem Drainase Kawasan",
+      "kondisi": "Menambah/menyesuaikan darinase, membesarkan saluran lama, dan menyambungkan saluran sampai dengan sungai belakang/ drainase eksisting dengan struktur stone masonry",
+      "lesson": "Menyesuaikan kondisi lapangan. Sebaiknya sudah dipertimbangkan pada tahap ED"
+    },
+    {
+      "id": "LL-032",
+      "no": "32",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Topografi & Finished Ground Level",
+      "kondisi": "Dasar penetapan menyesuaikan drawing awal. DRC sesuai kondisi awal, untuk gedung MCC menambah urugan 2-3m",
+      "lesson": "Menyesuaikan kondisi lapangan. Sebaiknya sudah dipertimbangkan pada tahap ED"
+    },
+    {
+      "id": "LL-033",
+      "no": "33",
+      "bidang": "Sipil & Arsitektur",
+      "objek": "Topografi & Finished Ground Level",
+      "kondisi": "FFL 1m di atas FGL, raised floor 60cm di atas FFL",
+      "lesson": "Menyesuaikan kondisi lapangan. Sebaiknya sudah dipertimbangkan pada tahap ED"
+    },
+    {
+      "id": "LL-034",
+      "no": "34",
+      "bidang": "MEP",
+      "objek": "Rumah Pompa BBM",
+      "kondisi": "Belum terdapat rumah pompa untuk pengisian BBM pada Generator. Sehingga dilaksanakan Instruksi Kerja Tambah. Untuk Tangki BBM underground sehingga dibutuhkan instalasi pompa.",
+      "lesson": "Dipastikan telah terdapat fasilitas tersebut pada kontrak Original. Untuk struktur tangki dapat dipertimbangkan upperground dengan elevasi menyesuaikan untuk meminimalisir kebutuhan instalasi pompa."
+    },
+    {
+      "id": "LL-035",
+      "no": "35",
+      "bidang": "MEP",
+      "objek": "Power Supply",
+      "kondisi": "Kondisi tidak ideal saat ini pada DRC adalah penggunaan power supply tidak menjalankan fungsi redundan (1 supply 1 stanby)  karena kedua trafo AUX harus beroperasi untuk memenuhi kebutuhan supply DRC Ungaran (kapasitas 1 trafo lebih kecil di banding beban keseluruhan), dan ACDB hanya 1 set untuk kebutuhaan operasi DRC",
+      "lesson": "Load untuk seluruh kebutuhan Gedung & Scada dll sebaiknya telah diperhitungkan pada tahap ED untuk menentukan kapasitas trafo yang digunakan"
+    },
+    {
+      "id": "LL-036",
+      "no": "36",
+      "bidang": "MEP",
+      "objek": "Power Supply",
+      "kondisi": "Pada power Suplay DRC 2 supply Redundan menggunakan AUX trafo kapasitas 1250 KVA dan genset 1000 kw masing masing 2 unit (untuk memenuhi kriteria TIER 4) sedangkan untuk DCDB dan ACDB hanya 1 set \nKapasitas beban lebih besar dari kapasitas aux (fungsi redundan tidak berjalan). Calnot kebutuhan supply sebaiknya dilakukan sebelum menentukan kapasitas trafo aux",
+      "lesson": "Untuk fungsi redundan sebaiknya telah diperhitungkan pada tahap ED"
+    },
+    {
+      "id": "LL-037",
+      "no": "37",
+      "bidang": "MEP",
+      "objek": "Power Supply",
+      "kondisi": "Sumber 20 kV juga harus 2 sumber (dari 2 sumber gi atau pembangkit yang berbeda) sesuai ketentuan TIER 4, sulit diterapkan di pontianak , hal tersebut juga berpotensi VO untuk GH 20 kV",
+      "lesson": "Untuk kebutuhan supply 20 kV sebaiknya telah diperhitungkan pada tahap ED. Perlu dikoordinasikan dengan unit terkait untuk penentuan supply 20 kV"
+    },
+    {
+      "id": "LL-038",
+      "no": "38",
+      "bidang": "MEP",
+      "objek": "UPS",
+      "kondisi": "Ruang Catu daya tidak sesuai ukurannnya agar di perhatiakn desain dan pelaratan yang akan di pasang (ukuran UPS dll dipertimbangkan dengan lebar dan tinggi pintu akses)",
+      "lesson": "Desain agar memperhatikan dimensi peralatan, dan dipertimbangkan akses yang fisible. Memiliki data dimensi masing2 peralatan pada tahap awal. Dapat dipertimbangkan menggunakan material/peralatan sistem partisi"
+    },
+    {
+      "id": "LL-039",
+      "no": "39",
+      "bidang": "MEP",
+      "objek": "Cyber Security",
+      "kondisi": "ICT dan Keamanan Cyber diserahterimakan ke STI",
+      "lesson": "Melibatkan STI untuk desain ICT dan keamanan Cyber"
+    },
+    {
+      "id": "LL-040",
+      "no": "40",
+      "bidang": "MEP",
+      "objek": "Komunikasi",
+      "kondisi": "Penggunaan IP Phone untuk komunikasi (dapat di confirm untuk penggunaan HT dikarenakan jika terjadi gangguan SUTT pada OPGW komikasi IP Phone dapat terganggu)",
+      "lesson": "Menyesuaikan kondisi lapangan. Sebaiknya sudah dipertimbangkan pada tahap ED"
+    },
+    {
+      "id": "LL-041",
+      "no": "41",
+      "bidang": "MEP",
+      "objek": "Server & Work Station",
+      "kondisi": "Penggunaan merk tipe work station agar dipastikan menggunakan tipe terbaru (meminimalisir penggunaan tipe yang absolved/ sudah berhenti produksi)",
+      "lesson": "Hindari merk/tipe server/ work station yang akan memasuki end of sale. Dapat dipertimbangkan dengan surat dukungan dari parbikan pada tahap pengadaan."
+    },
+    {
+      "id": "LL-042",
+      "no": "42",
+      "bidang": "MEP",
+      "objek": "Server & Work Station",
+      "kondisi": "Penggunaan merk server, WS agar di confirm dengan pihak operasi (disarankan yg sudah familiar oleh bidang operasi)",
+      "lesson": "Menyesuaikan kondisi lapangan. Sebaiknya sudah dipertimbangkan pada tahap ED. Hindari merk/tipe server/ work station yang akan memasuki end of sale.Sebaiknya menggunakan merk yang sama antara DRC dan MCC"
+    },
+    {
+      "id": "LL-043",
+      "no": "43",
+      "bidang": "MEP",
+      "objek": "Data Center",
+      "kondisi": "Untuk penetatapan area data center harus jelas, dikarenakan harus menggunakan standar konstruksi TIER 4",
+      "lesson": "Sebaiknya sudah dipertimbangkan pada tahap ED"
+    },
+    {
+      "id": "LL-044",
+      "no": "44",
+      "bidang": "MEP",
+      "objek": "Integrasi Sistem",
+      "kondisi": "Integrasi untuk system Gedung dan SCADA harus jelas dalam scope pekerjaan integrasi. Dikarenakan terdapat 2 kontrak untuk Gedung dan EM, yang kedua otomasinya perlu diintegrasikan",
+      "lesson": "Terminal point antar kontrak harus clear dan sebaiknya pelaksanaan kontrak Gedung dan SCADA berjalan beriringan"
+    },
+    {
+      "id": "LL-045",
+      "no": "45",
+      "bidang": "MEP",
+      "objek": "Point to Point",
+      "kondisi": "Agar diperhatikan timeline pengujian PTP karena harus dilakukan PTP ulang untuk semua GI ke DRC atau MCC",
+      "lesson": "Perlu disepakati pembagian GI dipertimbangkan sesuai regional UIP KLB dan UIP KLT. Dapat disepakati pada forum tim imbangan yang dibentuk."
+    },
+    {
+      "id": "LL-046",
+      "no": "46",
+      "bidang": "MEP",
+      "objek": "Fire Preservation",
+      "kondisi": "Watermist, Springkle, Pompa dll, di data center menggunakan, fire preservation Innerjet,",
+      "lesson": "Jenis fire preservation dapat dipertimbangkan menggunakan sistem yang sama dengan DRC Jamali"
+    },
+    {
+      "id": "LL-047",
+      "no": "47",
+      "bidang": "MEP",
+      "objek": "Ground Water Tank",
+      "kondisi": "Kondisi GWT terpisah dengan pump house. GWT memiliki 3 ruang yang terpisah degan sekat dengan kapasitas 600m3. Digunakan untuk sistem firefighting, instalasi air bersih, dan tampungan air hujan",
+      "lesson": "Jenis GWT dapat dipertimbangkan menggunakan sistem yang sama dengan DRC Jamali dengan lokasi pump house upperground/ berada di atas GWT"
+    },
+    {
+      "id": "LL-048",
+      "no": "48",
+      "bidang": "MEP",
+      "objek": "Access",
+      "kondisi": "Terdapat Intermediate Building (IB) untuk akses satu pintu ke Main Building (MB)",
+      "lesson": "Pada dokumen pengadaan belum terdapat IB. Sebaiknya terdapat fasilitas tersebut, mengingat fungsi critical sebagai main access ke MB"
+    },
+    {
+      "id": "LL-049",
+      "no": "49",
+      "bidang": "MEP",
+      "objek": "Access",
+      "kondisi": "Akses lift belum terbatas, khusunya untuk area Control Center (Lantai 2)",
+      "lesson": "Akses lift menggunakan access, khusunya untuk area Control Center (Lantai 2)"
+    },
+    {
+      "id": "LL-050",
+      "no": "50",
+      "bidang": "MEP",
+      "objek": "Access",
+      "kondisi": "Akses Pintu Utama masih menggunakan sistem manual",
+      "lesson": "Sebaiknya menggunakan sistem Pintu Utama Automatis"
+    },
+    {
+      "id": "LL-051",
+      "no": "51",
+      "bidang": "MEP",
+      "objek": "Air Cooler",
+      "kondisi": "Perlu disepakati Pola Operasi, ex sistem pendingin pada saat gedung beroperasi (sentralisasi/desentralisasi). Desentralisasi karena untuk merubah ke sentralisasi membutuhkan equipment tambahan",
+      "lesson": "Sebaiknya sudah dipertimbangkan pada tahap ED. Jika belum maka perlu disepakati pola operasi dengan End User. Dapat disepakati pada forum tim imbangan yang dibentuk."
+    },
+    {
+      "id": "LL-052",
+      "no": "52",
+      "bidang": "MEP",
+      "objek": "Air Cooler",
+      "kondisi": "Terdapat permasalahan antara Kontraktor/Distributor dengan Supplier merk Daikin sehingga belum dapat dilaksanakan komisioning",
+      "lesson": "Untuk dilakukan verifikasi sebelum penentuan Distributor dan Supplier agar terkoordinasi dengan baik"
+    },
+    {
+      "id": "LL-053",
+      "no": "53",
+      "bidang": "MEP",
+      "objek": "Gardu Hubung",
+      "kondisi": "Tidak ada gardu hubung yang dekat GI. Penambahan Gardu Hubung,",
+      "lesson": "Dipastikan ke UID terkait dengan supplay daya yang dibutuhkan. Sebaiknya sudah dipertimbangkan pada tahap ED. Jika belum maka dapat disepakati pada forum tim imbangan yang dibentuk."
+    },
+    {
+      "id": "LL-054",
+      "no": "54",
+      "bidang": "MEP",
+      "objek": "Spesifikasi Peralatan Serfer",
+      "kondisi": "Pabrikan DELL sudah tidak produksi tapi komit untuk supply sesuai lingkup kontrak\n\nYang lolos quality control 89 dari, ada beberapa spesifikasi yang tidak memenuhi TPG",
+      "lesson": "Dipastikan End off sell peralatan masih sama. Hindari produk server dan workstation yang akan memasuki end of sale. Dipastikan terdapat surat dukungan"
+    },
+    {
+      "id": "LL-055",
+      "no": "55",
+      "bidang": "MEP",
+      "objek": "Spesifikasi Videowall",
+      "kondisi": "Kontraktor mengajukan 2,9 inch diminta minimal 3,1 inch. Hal tersebut terjadi karena TPG tidak firm",
+      "lesson": "Dimensi videowall menggunakan luas minimal dan sebaiknya dalam TPG ditentukan dengan jelas"
+    },
+    {
+      "id": "LL-056",
+      "no": "56",
+      "bidang": "MEP",
+      "objek": "Cable Rack",
+      "kondisi": "Terdapat dispute mengenai scope pengadaan cable rack",
+      "lesson": "Dipastikan kembali terminal point kontrak sudah clear"
+    },
+    {
+      "id": "LL-057",
+      "no": "57",
+      "bidang": "K3L & Perizinan",
+      "objek": "ESG",
+      "kondisi": "Mengingat adanya kunjungan berkala dari lender (ADB dan UNOPS), dokumentasi dan pelaporan aspek lingkungan, sosial, serta K3",
+      "lesson": "Aspek ESG perlu dipersiapkan secara tertib sejak tahap awal proyek."
+    },
+    {
+      "id": "LL-058",
+      "no": "58",
+      "bidang": "K3L & Perizinan",
+      "objek": "Aspek K3 & Teknis",
+      "kondisi": "Terdapat 2 unit genset, 2 trafo, 5 lift, sistem fire fighting (air dan FM-200), serta PLTS rooftop. Perhatian khusus pada standar ketahanan api ruang CCR/dispatcher dan pengamanan akses ke area terbatas.",
+      "lesson": "Aspek K3L dan teknis perlu dipersiapkan secara tertib sejak tahap awal proyek."
+    },
+    {
+      "id": "LL-059",
+      "no": "59",
+      "bidang": "K3L & Perizinan",
+      "objek": "Aspek K3 & Teknis",
+      "kondisi": "Pada Control Room lantai 3 glass window belum memenuhi standar safety karena tidak terdapat rail border",
+      "lesson": "Menyesuaikan kondisi lapangan. Sebaiknya sudah dipertimbangkan pada tahap ED"
+    },
+    {
+      "id": "LL-060",
+      "no": "60",
+      "bidang": "K3L & Perizinan",
+      "objek": "Pengelolaan Lingkungan",
+      "kondisi": "Limbah B3 yang teridentifikasi meliputi aki, baterai, oli, dan air asam.",
+      "lesson": "Aspek LB3 perlu dipersiapkan secara tertib sejak tahap awal proyek."
+    },
+    {
+      "id": "LL-061",
+      "no": "61",
+      "bidang": "K3L & Perizinan",
+      "objek": "Perizinan & Lingkungan",
+      "kondisi": "DRC Ungaran telah memiliki KKPR melalui OSS, NIB, Persetujuan Lingkungan berupa UKL-UPL, sbg kelengkapan yaitu Rintek Limbah B3, serta Pertek Andalalin (karena memlalui jalan nasional dan kategori bangkitan sedang), Tidak diperlukan Pertek emisi dan air limbah berdasarkan kondisi proyek tersebut.",
+      "lesson": "Persyaratan perizinan, K3, lingkungan, SLF, dan ESG perlu diintegrasikan sejak tahap perencanaan agar pelaksanaan pembangunan DRC Pontianak lebih matang, patuh ketentuan, dan meminimalkan risiko kendala pada tahap konstruksi maupun operasional."
+    },
+    {
+      "id": "LL-062",
+      "no": "62",
+      "bidang": "K3L & Perizinan",
+      "objek": "Perizinan & Lingkungan",
+      "kondisi": "Pengurusan SLF memiliki tingkat kompleksitas yang berbeda pada masing2 daerah (Kota/Kabupaten)",
+      "lesson": "Perlu dilakukan sosialisasi khusus untuk pengurusan SLF dan berkoordinasi dengan pihak terkait pada tahap awal proyek"
+    },
+    {
+      "id": "LL-063",
+      "no": "63",
+      "bidang": "K3L & Perizinan",
+      "objek": "Kalaikan Bangunan",
+      "kondisi": "PBG menjadi lingkup PLN, sedangkan SLF menjadi lingkup kontraktor. Pemenuhan persyaratan pendukung SLF perlu dipersiapkan sejak awal. Meliputi: SLO Gedung dan kelistrikan, SLO Genset, SLO Lift, SMK3, Dokumen Rencana Keselanatan Konstruksi, Persetujuan lingkungan.",
+      "lesson": "Dalam proses pengurusan dokumen lingkungan, PLN bertindak sebagai pemrakarsa, dengan penanggung jawab atas nama General Manager UIP2B Jamali. Proses koordinasi diawali dengan permohonan arahan kepada Direktorat Pencegahan Dampak Lingkungan Usaha dan Kegiatan (DPDLUK). Selanjutnya, DPDLUK memberikan arahan agar proses pengurusan Persetujuan Lingkungan dilaksanakan melalui Dinas Lingkungan Hidup Kabupaten Semarang.\n\nSurat menyurat semua pakai kop UIP2B Jamali"
+    }
+  ],
+  "photos": [],
+  "documents": []
+}
