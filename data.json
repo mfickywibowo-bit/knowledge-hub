@@ -505,6 +505,35 @@
       "lesson": "Dalam proses pengurusan dokumen lingkungan, PLN bertindak sebagai pemrakarsa, dengan penanggung jawab atas nama General Manager UIP2B Jamali. Proses koordinasi diawali dengan permohonan arahan kepada Direktorat Pencegahan Dampak Lingkungan Usaha dan Kegiatan (DPDLUK). Selanjutnya, DPDLUK memberikan arahan agar proses pengurusan Persetujuan Lingkungan dilaksanakan melalui Dinas Lingkungan Hidup Kabupaten Semarang.\n\nSurat menyurat semua pakai kop UIP2B Jamali"
     }
   ],
-  "photos": [],
+  "photos": [
+    {
+      "id": "F-001",
+      "lesson_id": "LL-008",
+      "judul": "Strategi Koordinasi Persetujuan Approval Drawing",
+      "caption": "Infografis jumlah drawing dan mekanisme persetujuan tiga pihak",
+      "path": "assets/photos/LL-008_foto_01.png"
+    },
+    {
+      "id": "F-002",
+      "lesson_id": "LL-003",
+      "judul": "Kolaborasi UIPJBB dalam Pembangunan ACC Jamali",
+      "caption": "Timeline proyek dan keterlibatan para pihak",
+      "path": "assets/photos/LL-003_foto_01.png"
+    },
+    {
+      "id": "F-003",
+      "lesson_id": "LL-002",
+      "judul": "Transformasi Digital Pusat Kendali ACC Jamali",
+      "caption": "Perbandingan sistem terdistribusi dan terpusat MCC-DRC",
+      "path": "assets/photos/LL-002_foto_01.png"
+    },
+    {
+      "id": "F-004",
+      "lesson_id": "LL-001",
+      "judul": "Informasi Proyek MCC dan DRC",
+      "caption": "Ringkasan para pihak dan kontrak proyek",
+      "path": "assets/photos/LL-001_foto_01.png"
+    }
+  ],
   "documents": []
 }
